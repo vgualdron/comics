@@ -23,6 +23,15 @@
             que cómics son los que mas gustan. Gana el Cómic que complete {{ totalPoints }} puntos o más
           </b-alert>
 
+          <b-alert
+            show
+            class="border rounded shadow-sm"
+            variant="light"
+          >
+            <i class="fa fa-info-circle" aria-hidden="true" /> 
+            Para calificar un cómic debes seleccionar la cantidad de estrelas que desees y luego oprimir el botón de "Envíar"
+          </b-alert>
+
           <div class="float-right mt-2 mb-4">
             <b-button id="show-btn" @click="openModal" class="mt-1" title="Ver detalles de puntuación">
               <i class="fa fa-users" aria-hidden="true" /> Puntuación
