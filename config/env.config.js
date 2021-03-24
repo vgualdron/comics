@@ -1,6 +1,6 @@
 const production = {
   appName: 'Comics', // Nombre de la aplicación html - title
-  appBaseDir: './', // Directorio de despliegue de la aplicación
+  appBaseDir: '/comics', // Directorio de despliegue de la aplicación
   rootUrl: '../../../', // Url del servidor del api
   baseUrl: '../../../', //Url del apí por default
 }
