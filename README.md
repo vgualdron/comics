@@ -1,6 +1,8 @@
 # comics
 Proyecto Vuejs + Nuxt, para consultar api de cómics y calificarlos.
 
+ Your site is published at https://vgualdron.github.io/comics/
+
 El propósito del repositorio es consultar una api de cómics e ir mostrando un cómic aleatoriamente, pedir que se califique
 y que el usuario envíe la calificación, se van sumando los puntos y el cómic que llegue a 20 puntos es el que gana.
 
